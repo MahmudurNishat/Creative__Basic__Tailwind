@@ -1,6 +1,8 @@
-# Creative Way Basic Tailwind
+# Creative Way Basic Tailwind Responsive
 
 # ✨ Creative Way Project details:
+
+# ✨ This Project is Responsive :
 
 ### 🧨Here is the live link and screenshot of Creative Way Tailwind project by clicking on the image you will redirect to my github upload and others screenshot will redirect to code:
 
